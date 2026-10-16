@@ -68,6 +68,8 @@ Tools that parse multiple document formats and preserve structure, layout, table
 
 ### Commercial / API
 
+- [Doc2X](https://doc2x.noedgeai.com/) — Cloud PDF/image OCR and document parsing with formula/table recognition and Word/Markdown/LaTeX export; account-based limited recurring free parsing allowance, paid upgrades and separately billed API. [Official MIT TypeScript stdio MCP / Skill](https://github.com/NoEdgeAI/doc2x-mcp); own API key and cloud uploads required.
+
 - [Azure AI Document Intelligence](https://azure.microsoft.com/products/ai-services/ai-document-intelligence)
 - [Google Cloud Document AI](https://cloud.google.com/document-ai)
 - [Amazon Textract](https://aws.amazon.com/textract/)
